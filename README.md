@@ -1,5 +1,5 @@
 # VedicGautamDentalDetector
-# AI DentalAdvisoy
+# AI DentalAdvisor 
 
 **A dental X-ray analysis tool powered by a fine-tuned YOLOv10s model.**  
 Upload any dental X-ray image and the model will automatically detect and classify dental conditions — drawing colour-coded bounding boxes directly on the image with confidence scores.
